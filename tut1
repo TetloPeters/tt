@@ -1,5 +1,5 @@
 <html> 
 <head>
-<title> my frirst web design</title>
+<h1> my frirst web design</h1>
 </head>
 </html>
